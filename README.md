@@ -1,2 +1,2 @@
-# Melody
-Учебный проект Gio Academy
+# Melody Учебный проект Gio Academy
+## Выполнил Пахомов Сергей
